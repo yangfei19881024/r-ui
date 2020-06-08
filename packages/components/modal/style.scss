@@ -1,0 +1,12 @@
+@import '../../assets/style/common/common.scss';
+
+.mask {
+  @include mask();
+}
+
+.modal-content {
+  background: #fff;
+  width: 50%;
+  padding: 20px;
+
+}

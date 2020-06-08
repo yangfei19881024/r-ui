@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://[name]/packages/components/icon/index.vue?fb0d"],"names":[],"mappings":"AAAA,MAAM,SAAA,CAAU,UAAA,CAAW,qBAAA,CAAuB,iBAAA,CAAkB,eAAA","file":"style.css","sourcesContent":[".icon{width:1em;height:1em;vertical-align:-0.15em;fill:currentColor;overflow:hidden}"]}

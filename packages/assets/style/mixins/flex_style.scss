@@ -1,0 +1,11 @@
+/* 弹性布局相关的mixin */
+@mixin flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@mixin flex-btn-center {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}

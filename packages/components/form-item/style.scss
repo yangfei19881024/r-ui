@@ -1,0 +1,49 @@
+.r-form-container {
+  position: relative;
+  margin-bottom: 20px;
+
+  &.is-error {
+    /* margin-bottom: 5px; */
+  }
+}
+
+.r-form-item {
+  display: flex;
+  align-items: center;
+}
+
+.r-form-item--label {
+  text-align: right;
+  vertical-align: middle;
+  float: left;
+  font-size: 14px;
+  color: #606266;
+  line-height: 40px;
+  padding: 0 12px 0 0;
+  box-sizing: border-box;
+}
+
+.required-star {
+  color: red;
+}
+
+.error-tips {
+  color: #f56c6c;
+  font-size: 14px;
+  line-height: 1;
+  padding-top: 2px;
+  position: absolute;
+  top: 100%;
+  left: 0;
+}
+
+.error-fade-enter,
+.error-fade-leave-to {
+  transform: translateY(-10px);
+  opacity: 0;
+}
+
+.error-fade-enter-active,
+.error-fade-leave-active {
+  transition: all 0.5s;
+}
