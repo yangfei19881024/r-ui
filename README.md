@@ -14,7 +14,6 @@
   
 </p>
 
-
 # UI library For Vue
 
 ## Prerequisites
@@ -35,8 +34,8 @@
 - [x] Toast 表单
 - [x] Message 消息提示
 - [x] Messagebox 弹窗
-- [x] Modal 复杂弹窗 
-  
+- [x] Modal 复杂弹窗
+
 - 支持按需加载组件
 
 ## Author
@@ -53,5 +52,4 @@ Give a ⭐️ if this project helped you!
 
 ## Preview online
 
-[R-UI 预览地址](http://47.101.144.95/docs/#/component/installation)
-
+[R-UI 预览地址](http://ui.ruixi.online)
